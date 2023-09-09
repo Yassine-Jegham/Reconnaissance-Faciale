@@ -6,4 +6,4 @@ This Python script uses various libraries such as OpenCV, face_recognition and g
 
 #Output
 
-![Uploading ReconnaissanceFaciale.png…](https://user-images..githubusercontent.com/77092144/137318849-09003527-e706-4*86-Dave-16597787ac6.00g)
+![Uploading ReconnaissanceFaciale.png…](file:///C:/Users/Client/Desktop/ReconnaissanceFaciale.png)

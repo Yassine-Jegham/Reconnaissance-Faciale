@@ -19,7 +19,7 @@
 ![ReconnaissanceFaciale](https://github.com/Yassine-Jegham/Reconnaissance-Faciale/assets/116890996/4943d434-b2b7-42b2-a826-0f096a91b7ae)
 
 # Next Step 
-Implementing the model on a real-time application
+* Implementing our facial recognition model in real-time applications transforms data into identities, orchestrating a symphony of recognition with each captured frame.
 
 # Contact Me
 If you have any questions or feedback, please contact me at [yjegham@gmail.com]

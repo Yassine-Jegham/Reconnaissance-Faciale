@@ -12,7 +12,7 @@
 * face_recognition
 * gTTS (Google Text-to-Speech)
 * playsound
-* picamera (dans le cas ou on travail avec raspberry camera)
+* picamera (When working with the Raspberry Pi camera)
   
 # Resultats
 
